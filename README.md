@@ -8,7 +8,9 @@
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devleejb)](https://git.io/streak-stats)
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devleejb"/>
+</p>
 
 <br/>
 
