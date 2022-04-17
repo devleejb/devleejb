@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=200&text=I'm%20JB.&fontAlign=70&rotate=13&fontAlignY=25&desc=JongBeomLee&descAlign=70.&descAlignY=44)
 
-🖥 I'm interested in fullstack development.
-
-💽 Hanyang University, Seoul / Computer Science (2018.03 ~)
-
-👨🏻‍💻 Letitu Corp. / FullStack Developer (2021.11 ~)
+<p align="center">
+🖥 I'm interested in fullstack development. 🖥 <br/>
+🏫 Hanyang University, Seoul / Computer Science (2018.03 ~) 🏫 <br/>
+👨🏻‍💻 Letitu Corp. / FullStack Developer (2021.11 ~) 👨🏻‍💻
+</p>
 
 <br/>
 
