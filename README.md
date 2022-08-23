@@ -21,6 +21,7 @@
 <p align="center">
     <img src ="https://img.shields.io/badge/Android-brightgreen.svg?&style=flat&logo=Android&logoColor=FFFFFF"/> &nbsp
     <img src ="https://img.shields.io/badge/React-61DAFD.svg?&style=flat&logo=React&logoColor=FFFFFF"/> &nbsp
+    <img src ="https://img.shields.io/badge/-Next.js-FFFFFF?style=flat&logo=Next.js&logoColor=000000" /> &nbsp
     <img src ="https://img.shields.io/badge/Node.js-blue.svg?&style=flat&logo=Node.js&logoColor=FFFFFF"/> &nbsp
     <img src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=Flutter&logoColor=FFFFFF"/>
     <br/>
