@@ -3,7 +3,7 @@
 <p align="center">
 <p align="center">🖥 I'm interested in fullstack development. 🖥</p>
 <p align="center">🏫 Hanyang University, Seoul / Computer Science (2018.03 ~) 🏫</p>
-<p align="center">👨🏻‍💻 Letitu Corp. / FullStack Developer (2021.11 ~) 👨🏻‍💻</p>
+<p align="center">👨🏻‍💻 Letitu Corp. / FullStack Developer (2021.11 ~ 2022.08) 👨🏻‍💻</p>
 </p>
 
 <br/>
