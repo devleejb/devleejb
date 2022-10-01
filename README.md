@@ -9,13 +9,15 @@
  <br/>
 
  <div>
-    <a href="mailto:dev.leejb@gmail.com" style="margin-right: 8px">
+    <a href="mailto:dev.leejb@gmail.com">
         <img src="https://simpleicons.org/icons/gmail.svg" width="24" />
     </a>
-    <a href="https://github.com/devleejb" style="margin-right: 8px">
+    &nbsp;&nbsp;
+    <a href="https://github.com/devleejb">
         <img src="https://simpleicons.org/icons/github.svg" width="24" />
     </a>
-    <a href="https://www.linkedin.com/in/jongbeom-lee-a8193318b/" style="margin-right: 8px">
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jongbeom-lee-a8193318b/">
         <img src="https://simpleicons.org/icons/linkedin.svg" width="24" />
     </a>
  </div>
