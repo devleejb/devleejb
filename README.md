@@ -2,8 +2,6 @@
 
 ### 👨🏻‍💻 Career
 
----
-
 #### Letitu Corp.
 
 - **Position:** FullStack Developer
