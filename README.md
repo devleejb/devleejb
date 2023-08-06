@@ -1,4 +1,4 @@
-👋 Hi, my name is JongBeom Lee (JB). I'm a developer in South Korea.
+👋 Hi, my name is JongBeom Lee (JB). I'm a developer in South Korea. I'm interested in FullStack Development, Cloud, LLMOps.
 
 ### 👨🏻‍💻 Career
 
