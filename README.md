@@ -14,5 +14,5 @@
 #### Hanyang University
 
 - **Address:** Seoul, South Korea
-- **GPA:** 4.11 / 4.5
+- **GPA:** 4.15 / 4.5
 - **Expected Graduation Date:** 2025/02
