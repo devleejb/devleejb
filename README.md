@@ -2,7 +2,7 @@
     <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=devleejb">
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JongBeom&height=150&fontSize=60&desc=Full-Stack%20Developer&descAlignY=75&descAlign=56)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JongBeom&height=150&fontSize=60&desc=Software%20Engineer&descAlignY=75&descAlign=56)
 
 <h3 align="center">👨🏻‍💻 Technology Stack 👨🏻‍💻</h3>
 
