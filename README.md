@@ -1,5 +1,7 @@
 <div align="end">
-    <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=devleejb">
+    <a href="https://solved.ac/profile/devleejb" target="_blank">
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=devleejb">
+    </a>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JongBeom&height=150&fontSize=60&desc=Software%20Engineer&descAlignY=75&descAlign=56)
