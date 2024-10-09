@@ -50,7 +50,3 @@
     <img alt="sLLM" src="https://img.shields.io/badge/-sLLM-172B4D?logoColor=white&style=flat">
     </p>
 </div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devleejb"/>
-</div>
